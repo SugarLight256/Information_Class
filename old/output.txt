@@ -1,0 +1,5 @@
+(a):loop:133332 Approx_Value:0.749992500009377
+(b):loop:15916 Applox_Value:3.141561238661426
+(c):loop:24999 Applox_Value:3.141561238448700
+(d):loop:2777 Applox_Value:3.141561245986602
+(e):loop:31830 Applox_Value:3.141624069505093

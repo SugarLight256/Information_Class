@@ -1,0 +1,5 @@
+a:roop:133332 Near_Sum:0.749993
+b:roop:15916 Applox_Num:0.392695
+c:roop:24999 Applox_Num:1.57078
+d:roop:2777 Applox_Num:1.047187
+e:roop:31830 Applox_Num:0.785406
